@@ -1,5 +1,5 @@
 # **GROUP PROJECT #2: GitHub and collaboration with code**
-## For this project, you will use your new groups. The goal of this project is to practice the workflow of social coding — learning to collaborate within a group on a common set of data. Each team will deliver a simple website that is hosted on Github.com using the Github Pages service. Github Pages is typically used to host an informational website about a technical project; in this case, there is no technical project behind the website, but you can just write a placeholder file (like a README file) to have something in the master branch, or you can create a group and make an organization page instead.
+For this project, you will use your new groups. The goal of this project is to practice the workflow of social coding — learning to collaborate within a group on a common set of data. Each team will deliver a simple website that is hosted on Github.com using the Github Pages service. Github Pages is typically used to host an informational website about a technical project; in this case, there is no technical project behind the website, but you can just write a placeholder file (like a README file) to have something in the master branch, or you can create a group and make an organization page instead.
 
 # **STEPS**
 
